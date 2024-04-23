@@ -42,4 +42,4 @@
 
 ###
 
-<h3 align="center">🌐 <a href="https://https://myportfolioapp.web.app/" target="_blank">shanu.com</a> 🌐</h3>
+<h3 align="center">🌐 <a href="https://myportfolioapp.web.app/" target="_blank">shanu.com</a> 🌐</h3>
